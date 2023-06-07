@@ -1,0 +1,8 @@
+{
+    "RUNETERRA-ESSENTIALS": {
+        "CombatTargetChecker": {
+            "Title": "Warning: No Target Selected!",
+            "Prompt": "<p><strong>Warning! You have no target selected.</strong></p><p>Do you want to attack anyways?</p>"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "runeterra-essentials",
+    "title": "Runeterra Essentials",
+    "description": "A collection of utilities and QoL enhancements for our Runeterra campaign",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.2.0",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 11,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "FurtherV",
+            "url": "https://github.com/FurtherV",
+            "discord": "FurtherV#5068"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.0.0"
+                }
+            }
+        ]
+    },
+    "esmodules": ["setup.mjs"],
+    "packs": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "url": "replaced by workflow",
+    "manifest": "replaced by workflow",
+    "download": "replaced by workflow",
+    "changelog": "replaced by workflow",
+    "readme": "replaced by workflow",
+    "license": "LICENSE"
+}
